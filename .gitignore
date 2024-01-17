@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+*.mp4
+*.filters
+*.vsidx
+*.db
+*.ipch
+*.tlog
+*.ipdb
+*.lock
+*.db-shm
+*.db-wal
+*.opendb
+*.recipe
+*.iobj
